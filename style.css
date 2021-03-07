@@ -1,0 +1,140 @@
+body{
+	background-color: #efefef;
+}
+ul.nav {
+	list-style-type: none;
+	display: inline-block;
+	padding: 0;
+	margin: 0;
+	background-color: #b50043;
+	position: sticky;
+	top: 0;
+	width: 100%;
+}
+
+li a{
+	font-size: 20pt;
+	float: left;
+	display: block;
+	padding: 12px;
+	background-color: #b50043;
+	text-decoration: none;
+	color: #ffffff;
+}
+
+li a.active{
+	background-color: #910039;
+}
+
+li a:hover {
+	background-color: #910039;
+}
+
+div.banner{
+	background-color: #b50043;
+	margin: auto;
+	top: 0;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+body.home{
+	background-image: url("images/background.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+body.aboutus{
+	background-image: url("images/aboutusbackground.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+.white{
+	font-size: 18pt;
+	color: #ffffff;
+}
+
+div{
+	padding: 10px;
+}
+
+div.hover{
+	background-color: #b50043;
+	margin-top: 80px;
+	width: 55%;
+}
+
+h1 {
+	color: #ffffff;
+	font-size: 30pt;
+	text-align: center;
+}
+
+td {
+	width: 300px;
+	padding: 10px;
+}
+
+table.stafftable{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+th {
+	font-size: 20pt;
+}
+
+td {
+	font-size: 16pt;
+}
+
+.pageinfo {
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+li.course {
+	font-size: 18pt;
+	padding: 5px;
+}
+
+.textcenter{
+	text-align: center;
+}
+
+.button{
+	background-color: #b50043;
+	border: none;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
